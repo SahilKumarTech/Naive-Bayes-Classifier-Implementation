@@ -29,5 +29,5 @@ The notebook walks through dataset preprocessing, model training, and evaluation
 - **NumPy, Pandas** – Data manipulation
 - **Matplotlib, Seaborn** – Data visualization
 - **Scikit-learn** – Naive Bayes and evaluation metrics   
-   cd Naive-Bayes-Classifier-Implementation
+   
 
